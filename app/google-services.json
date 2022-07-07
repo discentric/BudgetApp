@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "518427827060",
+    "project_id": "budgeting-app-da375",
+    "storage_bucket": "budgeting-app-da375.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518427827060:android:54117fa6459879a50f2a21",
+        "android_client_info": {
+          "package_name": "com.example.budgetplanningtrackingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518427827060-gv5qg2849htj348r9e1m65sumto20nuh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.budgetplanningtrackingapp",
+            "certificate_hash": "f115cb8676d70ab75d79da941bb0943640810e37"
+          }
+        },
+        {
+          "client_id": "518427827060-iqr1j5ig65l0vun0p567v4cmue6d8r50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXyDjp4hT5gByRDqOW7CvOeeFNOoFevxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518427827060-iqr1j5ig65l0vun0p567v4cmue6d8r50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
